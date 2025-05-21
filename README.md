@@ -1,0 +1,1 @@
+Este proyecto consiste en una aplicación Java que permite registrar, buscar, modificar, eliminar y listar estudiantes, almacenando los datos en un archivo binario usando organización directa. Cada registro se guarda en una posición específica basada en el número de control del estudiante, permitiendo acceso directo sin necesidad de recorrer todo el archivo.
